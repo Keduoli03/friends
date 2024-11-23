@@ -1,0 +1,26 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "Halo站点",
+      "url": "https://www.blueke.top/",
+      "avatar": "https://gcore.jsdelivr.net/gh/Keduoli03/My_img@img/img/%E5%A4%B4%E5%83%8F.jpg",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "秋华的博客",
+      "url": "https://www.devrun.fun/",
+      "avatar": "https://gcore.jsdelivr.net/gh/Keduoli03/My_img@img/img/%E7%A7%8B%E5%8D%8E.webp",
+      "screenshot": "",
+      "description": ""
+    },
+    {
+      "title": "个人导航主页",
+      "url": "home.bluke.top",
+      "avatar": "https://gcore.jsdelivr.net/gh/Keduoli03/My_img@img/img/%E5%A4%B4%E5%83%8F.jpg",
+      "screenshot": "",
+      "description": ""
+    }
+  ]
+}
